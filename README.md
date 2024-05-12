@@ -1,2 +1,2 @@
-# Subscriber-Prediction
-YouTube subscriber count predictions
+# YouTube Subscriber Prediction
+We sought to better understand the factors that led to channel success on YouTube, specifically, the number of subscribers a channel has. We selected a dataset with information about over 1 million channels on YouTube, containing attributes such as channel name, description, keywords, subscriber count, views, join date, country, and more. By utilizing these features along with some engineered features, we hope to find the most important factors that drive channel growth on YouTube.
