@@ -9,10 +9,10 @@ In this repository, we sought to better understand the factors that led to chann
 
 ## Repository Structure
 - `Subscriber_Prediction.pdf`: A presentation that outlines the motivation and key findings from our modeling
-- `Youtube_Subscriber_Prediction.ipynb`: Jupyter notebook containing all data cleaning and modelling
+- `YouTube_Subscriber_Prediction.ipynb`: Jupyter notebook containing all data cleaning and modelling
 
 ## Installation
-Please run our notebook `Youtube_Subscriber_Prediction.ipynb` top to bottom
+Please run our notebook `YouTube_Subscriber_Prediction.ipynb` top to bottom
 
 ## Team Members
 Will Qi, Edmund Doerksen, Jessica Ling
