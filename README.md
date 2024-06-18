@@ -15,4 +15,4 @@ In this repository, we sought to better understand the factors that led to chann
 Please run our notebook `YouTube_Subscriber_Prediction.ipynb` top to bottom
 
 ## Team Members
-Will Qi, Edmund Doerksen, Jessica Ling
+William Qi, Edmund Doerksen, Jessica Ling
