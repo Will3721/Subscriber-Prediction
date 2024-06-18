@@ -4,20 +4,15 @@
 In this repository, we sought to better understand the factors that led to channel success on YouTube, specifically, the number of subscribers a channel has. We selected a dataset with information about over 1 million channels on YouTube, containing attributes such as channel name, description, keywords, subscriber count, views, join date, country, and more. By utilizing these features along with some engineered features, we hope to find the most important factors that drive channel growth on YouTube.
 
 ## Dataset Details
-- **Title**: Bottleneck Transformers for Visual Recognition
-- **Authors**: Aravind Srinivas, Tsung-Yi Lin, et al.
-- **Link**: [Read the paper](https://arxiv.org/pdf/2101.11605)
-- **Published**: 2021
+- **Size**: 1,095,242 rows, 876.84 MB 
+- **Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/asaniczka/2024-youtube-channels-1-million)
 
 ## Repository Structure
-- `Bottleneck Transformers.pdf`: A presentation that outlines the key concepts and findings from the paper.
-- `Bottleneck_Transformer.ipynb`: Jupyter notebook with the implementation of the bottleneck transformer model as described in the paper.
-
-## Key Concepts
-The research introduces a novel hybrid architecture that combines the robustness of CNNs with the efficiency of self-attention mechanisms from transformers to address the challenges in visual recognition tasks such as object detection and image classification.
+- `Subscriber_Prediction.pdf`: A presentation that outlines the motivation and key findings from our modeling
+- `Youtube_Subscriber_Prediction.ipynb`: Jupyter notebook containing all data cleaning and modelling
 
 ## Installation
-Please run our notebook `Bottleneck_Transformer.ipynb` top to bottom
+Please run our notebook `Youtube_Subscriber_Prediction.ipynb` top to bottom
 
 ## Team Members
-Will Qi, Tin Do, Tarunyaa Sivakumar
+Will Qi, Edmund Doerksen, Jessica Ling
